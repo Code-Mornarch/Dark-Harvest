@@ -1,7 +1,3 @@
-Here’s a polished `README.md` file based on the details you provided for the **DarkHarvest** module. I’ve structured it to be clear, professional, and informative, assuming it’s part of a speculative or educational project (since it’s framed as an offensive tool, I’ll keep it theoretical and avoid implying real malicious use). I’ve filled in some gaps with reasonable assumptions where needed, but stuck strictly to your input for the core details. Let me know if you want to tweak anything!
-
----
-
 # DarkHarvest
 
 ## Overview
